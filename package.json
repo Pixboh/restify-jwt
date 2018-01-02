@@ -42,8 +42,7 @@
     "restify": "3.x"
   },
   "peerDependencies": {
-    "restify": "3.x || 4.x",
-    "restify-errors": "^3.1.0"
+    "restify": "3.x || 4.x"
   },
   "engines": {
     "node": ">= 0.10.0"
